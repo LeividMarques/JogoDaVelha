@@ -1,0 +1,15 @@
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\bin\Debug\net5.0\JogodaVelhaFinal.exe
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\bin\Debug\net5.0\JogodaVelhaFinal.deps.json
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\bin\Debug\net5.0\JogodaVelhaFinal.runtimeconfig.json
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\bin\Debug\net5.0\JogodaVelhaFinal.runtimeconfig.dev.json
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\bin\Debug\net5.0\JogodaVelhaFinal.dll
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\bin\Debug\net5.0\JogodaVelhaFinal.pdb
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\JogodaVelhaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\JogodaVelhaFinal.AssemblyInfoInputs.cache
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\JogodaVelhaFinal.AssemblyInfo.cs
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\JogodaVelhaFinal.csproj.CoreCompileInputs.cache
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\JogodaVelhaFinal.dll
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\refint\JogodaVelhaFinal.dll
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\JogodaVelhaFinal.pdb
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\JogodaVelhaFinal.genruntimeconfig.cache
+C:\Users\leivid.santos\Desktop\Curso\Testes\JogodaVelhaFinal\JogodaVelhaFinal\obj\Debug\net5.0\ref\JogodaVelhaFinal.dll
